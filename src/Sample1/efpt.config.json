@@ -1,0 +1,1 @@
+﻿{"ContextClassName":"Adventureworks2016Context","DatabaseType":2,"IdReplace":false,"IncludeConnectionString":true,"OutputPath":"Core\\Models","ProjectRootNamespace":"Sample1","SelectedToBeGenerated":0,"Tables":["Person.Person","Production.Product"],"UseDatabaseNames":false,"UseFluentApiOnly":true,"UseHandleBars":false,"UseInflector":false}
